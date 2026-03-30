@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Gianluca 👋
 
-<!--
-**Pnda90/Pnda90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Developer · Full-Stack Engineer · Agentic AI Specialist**
 
-Here are some ideas to get you started:
+I build AI-native products and intelligent automation systems for B2B and B2C clients.  
+My stack lives at the intersection of **LLM integration**, **agentic workflows**, and **modern web development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+`Python` `Node.js` `React` `Next.js` `Vercel` `Supabase` `PostgreSQL`  
+`LangChain` `OpenAI` `Claude` `Mistral` `REST APIs`
+
+## 🚀 Featured Projects
+- **[AgentiPRO](link-al-repo)** — Agentic AI framework for real-world automation workflows
+- **[Game 1](link)** · **[Game 2](link)** — MVPs built to demonstrate AI-native rapid prototyping
+
+## 📫 Let's Connect
+[Portfolio](https://gbernardo.framer.ai) · [Email](mailto:gianlucabernardo@hotmail.com) · [LinkedIn](link)
