@@ -6,8 +6,27 @@ I build AI-native products and intelligent automation systems for B2B and B2C cl
 My stack lives at the intersection of **LLM integration**, **agentic workflows**, and **modern web development**.
 
 ## 🛠️ Tech Stack
-`Python` `Node.js` `React` `Next.js` `Vercel` `Supabase` `PostgreSQL`  
-`LangChain` `OpenAI` `Claude` `Mistral` `REST APIs`
+
+**Frontend**
+`React` `Next.js` `HTML5` `CSS3` `JavaScript` `TypeScript`
+
+**Backend & Database**
+`Node.js` `Python` `REST APIs` `Supabase` `PostgreSQL`
+
+**AI & Agentic Development**
+`LangChain` `LangGraph` `OpenAI` `Claude` `Mistral` `Prompt Engineering` `RAG` `AI Agents`
+
+**DevOps & Deployment**
+`Vercel` `Netlify` `GitHub` `Git` `CI/CD`
+
+**CMS & No-Code / Low-Code**
+`Framer` `Cursor` `WordPress`
+
+**Marketing & Growth**
+`HubSpot` `Google Ads` `SEO` `Google Analytics`
+
+**Design & Creative**
+`Canva` `Adobe Suite` `Figma`
 
 ## 🚀 Featured Projects
 - **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** — Agentic AI framework for real-world automation workflows
