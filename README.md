@@ -10,8 +10,8 @@ My stack lives at the intersection of **LLM integration**, **agentic workflows**
 `LangChain` `OpenAI` `Claude` `Mistral` `REST APIs`
 
 ## 🚀 Featured Projects
-- **[AgentiPRO](link-al-repo)** — Agentic AI framework for real-world automation workflows
-- **[Game 1](link)** · **[Game 2](link)** — MVPs built to demonstrate AI-native rapid prototyping
+- **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** — Agentic AI framework for real-world automation workflows
+- **[Peto_Quest](https://github.com/Pnda90/peto-quest))** · **[YUka](https://github.com/Pnda90/yaku))** — MVPs built to demonstrate AI-native rapid prototyping
 
 ## 📫 Let's Connect
 [Portfolio](https://gbernardo.framer.ai) · [Email](mailto:gianlucabernardo@hotmail.com) · 
