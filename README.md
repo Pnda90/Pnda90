@@ -14,4 +14,4 @@ My stack lives at the intersection of **LLM integration**, **agentic workflows**
 - **[Game 1](link)** · **[Game 2](link)** — MVPs built to demonstrate AI-native rapid prototyping
 
 ## 📫 Let's Connect
-[Portfolio](https://gbernardo.framer.ai) · [Email](mailto:gianlucabernardo@hotmail.com) · [LinkedIn](link)
+[Portfolio](https://gbernardo.framer.ai) · [Email](mailto:gianlucabernardo@hotmail.com) · 
