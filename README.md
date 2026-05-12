@@ -29,6 +29,7 @@ My stack lives at the intersection of **LLM integration**, **agentic workflows**
 `Canva` `Adobe Suite` `Figma`
 
 ## 🚀 Featured Projects
+- **[Nocturna](https://github.com/Pnda90/Nocturna)** — Immersive digital Ouija board and horror story generator with AI-powered responses. Built with React, TypeScript, Tailwind CSS, and Supabase. [Live Demo](https://nocturna-iota.vercel.app/)
 - **[Behind The Overlay Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Open source Safari extension for macOS, ported from Chrome/Firefox via Xcode
 - **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** — Agentic AI framework for real-world automation workflows
 - **[Peto_Quest](https://github.com/Pnda90/peto-quest))** · **[YUka](https://github.com/Pnda90/yaku))** — MVPs built to demonstrate AI-native rapid prototyping
