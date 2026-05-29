@@ -14,7 +14,7 @@ My stack lives at the intersection of **LLM integration**, **agentic workflows**
 `Node.js` `Python` `REST APIs` `Supabase` `PostgreSQL`
 
 **AI & Agentic Development**
-`LangChain` `LangGraph` `OpenAI` `Claude` `Mistral` `Prompt Engineering` `RAG` `AI Agents`
+`LangChain` `LangGraph` `OpenAI` `Claude` `Copilot` `Prompt Engineering` `RAG` `AI Agents`
 
 **DevOps & Deployment**
 `Vercel` `Netlify` `GitHub` `Git` `CI/CD`
