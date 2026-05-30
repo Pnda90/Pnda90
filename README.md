@@ -39,5 +39,5 @@ Il mio stack si trova all'intersezione tra **integrazione LLM**, **workflow agen
 - **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** — Genera automaticamente AGENTS.md per il tuo repository usando l'AI.
 
 
-## 📫 Connettiamoci
+## 📫 Link
 [Portfolio](https://gbernardo.framer.ai) · [Email](mailto:gianlucabernardo@hotmail.com) · 
