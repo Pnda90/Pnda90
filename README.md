@@ -1,6 +1,6 @@
 # Ciao, sono Gianluca 👋
 
-**Sviluppatore AI · Full-Stack Engineer · Specialista in AI Agentic**
+**AI Product Builder · Specialista in AI Agentic**
 
 Costruisco prodotti AI-native e sistemi di automazione intelligente per clienti B2B e B2C.  
 Il mio stack si trova all'intersezione tra **integrazione LLM**, **workflow agentic**, e **sviluppo web moderno**.
