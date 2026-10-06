@@ -2,42 +2,52 @@
 
 **AI Product Builder · Specialista in AI Agentic**
 
-Costruisco prodotti AI-native e sistemi di automazione intelligente per clienti B2B e B2C.  
-Il mio stack si trova all'intersezione tra **integrazione LLM**, **workflow agentic**, e **sviluppo web moderno**.
+Costruisco prodotti AI-native, strumenti per developer e workflow agentic per clienti B2B e B2C.  
+Il mio stack si trova all'intersezione tra **integrazione LLM**, **architetture multi-agente deterministiche** e **sviluppo web moderno**.
+
+---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-`React` `Next.js` `HTML5` `CSS3` `JavaScript` `TypeScript`
+- **AI & Agentic Architecture**: `Agentic Workflows` `GBNF / Constrained Decoding` `Claude Code Skills` `LangChain` `LangGraph` `RAG` `Prompt Engineering`
+- **Frontend**: `TypeScript` `JavaScript` `React 19` `Next.js` `Tailwind CSS` `Vite` `HTML5 / CSS3`
+- **Backend & Database**: `Python` `Node.js` `PostgreSQL` `Supabase` `REST APIs`
+- **DevOps, Tooling & Cloud**: `Vercel` `GitHub Actions (CI/CD)` `Git` `Safari WebExtensions / Xcode`
+- **Product & Design**: `Figma` `Cursor` `Framer`
 
-**Backend & Database**
-`Node.js` `Python` `REST APIs` `Supabase` `PostgreSQL`
-
-**AI & Sviluppo Agentic**
-`LangChain` `LangGraph` `OpenAI` `Claude` `Copilot` `Prompt Engineering` `RAG` `AI Agents`
-
-**DevOps & Deployment**
-`Vercel` `Netlify` `GitHub` `Git` `CI/CD`
-
-**CMS & No-Code / Low-Code**
-`Framer` `Cursor` `WordPress`
-
-**Marketing & Growth**
-`HubSpot` `Google Ads` `SEO` `Google Analytics`
-
-**Design & Creative**
-`Canva` `Adobe Suite` `Figma`
+---
 
 ## 🚀 Progetti in Evidenza
-- **[Nocturna](https://github.com/Pnda90/Nocturna)** — Tavola Ouija digitale immersiva e generatore di storie horror con risposte alimentate dall'AI. Costruito con React, TypeScript, Tailwind CSS e Supabase. [Live Demo](https://nocturna-iota.vercel.app/)
-- **[Behind The Overlay Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Estensione Safari open source per macOS, portata da Chrome/Firefox tramite Xcode
-- **[Famiglia-Scuola Connessa](https://github.com/Pnda90/famiglia-scuola-connessa)** — Piattaforma di comunicazione integrata scuola-famiglia con dashboard a ruoli (Famiglia, Docente, Admin), messaggistica real-time simulata e tracciamento attività. Costruito con React, TypeScript, Vite e shadcn/ui. [Live Demo](https://famiglia-scuola-connessa.vercel.app/)
-- **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** — Framework Agentic AI per flussi di automazione nel mondo reale
-- **[Peto_Quest](https://github.com/Pnda90/peto-quest)** · **[YUka](https://github.com/Pnda90/yaku)** — MVP costruiti per dimostrare prototipazione rapida AI-native
-- **[TokenZip](https://github.com/Pnda90/TokenZip)** — Toolkit professionale e competenze ingegnerizzate per ottimizzare le interazioni degli agenti AI
-- **[WikiSkills](https://github.com/Pnda90/WikiSkills)** — Trasforma libri tecnici e documenti in competenze locali per riferimento rapido e studio veloce
-- **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** — Genera automaticamente AGENTS.md per il tuo repository usando l'AI.
 
+### 🧠 AI & Agentic Tooling
 
-## 📫 Link
-[Portfolio](https://gbernardo.framer.ai) · [Email](mailto:gianlucabernardo@hotmail.com) · 
+- **[JANUS](https://github.com/Pnda90/janus-lang)** — Domain-Specific Language (DSL) LL(1) per l'orchestrazione deterministica di tool agentic, sintesi di grammatiche GBNF per constrained decoding (zero allucinazioni di schema) e transpilazione verso Python 3.13 / PyTorch.
+- **[AgentiPro](https://github.com/Pnda90/AgentiPRO)** — Framework con **26 agenti specializzati** e protocolli di comunicazione standardizzati per lo sviluppo software moderno con Claude Code e sistemi LLM.
+- **[TokenZip](https://github.com/Pnda90/TokenZip)** — Suite professionale di strumenti e skill ad alte prestazioni per ottimizzare e comprimere il contesto dei token nelle interazioni con agenti AI.
+- **[WikiSkills](https://github.com/Pnda90/WikiSkills)** — Tool per trasformare libri e documentazione tecnica (PDF, EPUB, DOCX, MD) in skill locali consultabili direttamente durante le sessioni con agenti AI.
+- **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** — Tool CLI open source (pubblicato su npm) per scansionare repository e generare automaticamente specifiche `AGENTS.md` per Copilot, Cursor e Claude Code.
+
+---
+
+### 💻 Web Applications & SaaS Prototypes
+
+- **[DEMO CRM Benessere](https://github.com/Pnda90/demo-crm-benessere)** — Piattaforma gestionale e CRM per centri estetici e benessere con gestione clienti, trattamenti e agenda. Costruito con React 19, Supabase, Tailwind CSS e Vite.  
+  👉 [Live Demo](https://demo-crm-benessere.vercel.app/)
+- **[Famiglia-Scuola Connessa](https://github.com/Pnda90/famiglia-scuola-connessa)** — Web application per facilitare la comunicazione e collaborazione tra docenti, famiglie e studenti con dashboard dedicate. Sviluppato con React, TypeScript e Supabase.  
+  👉 [Live Demo](https://famiglia-scuola-connessa.vercel.app/)
+- **[Nocturna](https://github.com/Pnda90/Nocturna)** — Esperienza narrativa immersiva e tavola Ouija digitale con risposte generate in tempo reale tramite AI. Realizzato con React, TypeScript, Tailwind CSS e Supabase.  
+  👉 [Live Demo](https://nocturna-iota.vercel.app/)
+
+---
+
+### 🔧 Utility & Extensions
+
+- **[Behind The Overlay Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Estensione open source per macOS Safari (portata da Chrome/Firefox tramite Xcode) per chiudere popup e overlay fastidiosi con un clic.
+- **[Peto Quest](https://github.com/Pnda90/peto-quest)** — Web game interattivo ed educativo attraverso il sistema digerente realizzato con TypeScript e React.  
+  👉 [Live Demo](https://peto-quest.vercel.app/)
+
+---
+
+📫 **Contatti & Collaborazioni**  
+- 🌐 [Portfolio](https://gbernardo.framer.ai) · ✉️ [gianlucabernardo@hotmail.com](mailto:gianlucabernardo@hotmail.com) · 🐙 [GitHub](https://github.com/Pnda90)  
+- Disponibile per collaborazioni su prodotti AI-native, sistemi agentic e architetture web moderne.
