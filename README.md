@@ -31,6 +31,8 @@ Il mio stack si trova all'intersezione tra **integrazione LLM**, **architetture 
 
 ### 💻 Web Applications & SaaS Prototypes
 
+- **[FreeGo](https://freego26.vercel.app/)** *(Proprietario)* — PWA e applicazione web per la gestione intelligente del frigo: inventario scadenze, ricette anti-spreco generate dagli ingredienti disponibili e scansione con fotocamera. Sviluppato con Next.js, React e TypeScript.  
+  👉 [Live Demo](https://freego26.vercel.app/)
 - **[DEMO CRM Benessere](https://github.com/Pnda90/demo-crm-benessere)** — Piattaforma gestionale e CRM per centri estetici e benessere con gestione clienti, trattamenti e agenda. Costruito con React 19, Supabase, Tailwind CSS e Vite.  
   👉 [Live Demo](https://demo-crm-benessere.vercel.app/)
 - **[Famiglia-Scuola Connessa](https://github.com/Pnda90/famiglia-scuola-connessa)** — Web application per facilitare la comunicazione e collaborazione tra docenti, famiglie e studenti con dashboard dedicate. Sviluppato con React, TypeScript e Supabase.  
@@ -40,11 +42,18 @@ Il mio stack si trova all'intersezione tra **integrazione LLM**, **architetture 
 
 ---
 
-### 🔧 Utility & Extensions
+### 🎮 Games & Interactive
 
-- **[Behind The Overlay Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Estensione open source per macOS Safari (portata da Chrome/Firefox tramite Xcode) per chiudere popup e overlay fastidiosi con un clic.
+- **[YAKU](https://yaku-psi.vercel.app/)** *(Proprietario)* — Roguelike dice game strategico con interfaccia ad alto impatto visivo ("Cosmic Dark"), progressive dice mechanics e audio immersivo. Sviluppato con React, Vite e TypeScript (PWA).  
+  👉 [Live Demo](https://yaku-psi.vercel.app/)
 - **[Peto Quest](https://github.com/Pnda90/peto-quest)** — Web game interattivo ed educativo attraverso il sistema digerente realizzato con TypeScript e React.  
   👉 [Live Demo](https://peto-quest.vercel.app/)
+
+---
+
+### 🔧 Browser Extensions & Utility
+
+- **[Behind The Overlay Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Estensione open source per macOS Safari (portata da Chrome/Firefox tramite Xcode) per chiudere popup e overlay fastidiosi con un clic.
 
 ---
 
