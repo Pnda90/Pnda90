@@ -1,62 +1,66 @@
 # Ciao, sono Gianluca 👋
 
-**AI Product Builder · Specialista in AI Agentic**
+**AI Product Builder · Applicazioni web, strumenti per developer e workflow con LLM**
 
-Costruisco prodotti AI-native, strumenti per developer e workflow agentic per clienti B2B e B2C.  
-Il mio stack si trova all'intersezione tra **integrazione LLM**, **architetture multi-agente deterministiche** e **sviluppo web moderno**.
+Trasformo idee e processi in prototipi utilizzabili, combinando sviluppo web, product design e integrazione AI. Lavoro su applicazioni per utenti e aziende, con attenzione all'esperienza d'uso e ai flussi operativi.
 
----
+[Portfolio](https://gbernardo.framer.ai/) · [Contattami](mailto:gianlucabernardo@hotmail.com)
 
-## 🛠️ Tech Stack
+## Progetti selezionati
 
-- **AI & Agentic Architecture**: `Agentic Workflows` `GBNF / Constrained Decoding` `Claude Code Skills` `LangChain` `LangGraph` `RAG` `Prompt Engineering`
-- **Frontend**: `TypeScript` `JavaScript` `React 19` `Next.js` `Tailwind CSS` `Vite` `HTML5 / CSS3`
-- **Backend & Database**: `Python` `Node.js` `PostgreSQL` `Supabase` `REST APIs`
-- **DevOps, Tooling & Cloud**: `Vercel` `GitHub Actions (CI/CD)` `Git` `Safari WebExtensions / Xcode`
-- **Product & Design**: `Figma` `Cursor` `Framer`
+### CRM Benessere
 
----
+Prototipo gestionale per centri benessere: clienti, contratti, rinnovi e provvigioni, con accessi differenziati per ruolo. Integra Supabase, pagamenti Stripe in modalità test e un assistente AI lato server.
 
-## 🚀 Progetti in Evidenza
+**Focus:** flussi operativi, autorizzazioni sui dati e integrazioni backend.  
+**Stack:** React, TypeScript, Supabase, Stripe.  
+[Codice e documentazione](https://github.com/Pnda90/demo-crm-benessere)
 
-### 🧠 AI & Agentic Tooling
+### FreeGo
 
-- **[JANUS](https://github.com/Pnda90/janus-lang)** — Domain-Specific Language (DSL) LL(1) per l'orchestrazione deterministica di tool agentic, sintesi di grammatiche GBNF per constrained decoding (zero allucinazioni di schema) e transpilazione verso Python 3.13 / PyTorch.
-- **[AgentiPro](https://github.com/Pnda90/AgentiPRO)** — Framework con **26 agenti specializzati** e protocolli di comunicazione standardizzati per lo sviluppo software moderno con Claude Code e sistemi LLM.
-- **[TokenZip](https://github.com/Pnda90/TokenZip)** — Suite professionale di strumenti e skill ad alte prestazioni per ottimizzare e comprimere il contesto dei token nelle interazioni con agenti AI.
-- **[WikiSkills](https://github.com/Pnda90/WikiSkills)** — Tool per trasformare libri e documentazione tecnica (PDF, EPUB, DOCX, MD) in skill locali consultabili direttamente durante le sessioni con agenti AI.
-- **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** — Tool CLI open source (pubblicato su npm) per scansionare repository e generare automaticamente specifiche `AGENTS.md` per Copilot, Cursor e Claude Code.
+Applicazione per organizzare il frigorifero, tenere sotto controllo le scadenze e trovare idee per cucinare con gli ingredienti disponibili.
 
----
+**Focus:** un'esperienza semplice per un problema quotidiano.  
+**Stato:** beta · codice proprietario.  
+[Prova FreeGo](https://freego26.vercel.app/)
 
-### 💻 Web Applications & SaaS Prototypes
+### Famiglia-Scuola Connessa
 
-- **[FreeGo](https://freego26.vercel.app/)** *(Proprietario)* — PWA e applicazione web per la gestione intelligente del frigo: inventario scadenze, ricette anti-spreco generate dagli ingredienti disponibili e scansione con fotocamera. Sviluppato con Next.js, React e TypeScript.  
-  👉 [Live Demo](https://freego26.vercel.app/)
-- **[DEMO CRM Benessere](https://github.com/Pnda90/demo-crm-benessere)** — Piattaforma gestionale e CRM per centri estetici e benessere con gestione clienti, trattamenti e agenda. Costruito con React 19, Supabase, Tailwind CSS e Vite.  
-  👉 [Live Demo](https://demo-crm-benessere.vercel.app/)
-- **[Famiglia-Scuola Connessa](https://github.com/Pnda90/famiglia-scuola-connessa)** — Web application per facilitare la comunicazione e collaborazione tra docenti, famiglie e studenti con dashboard dedicate. Sviluppato con React, TypeScript e Supabase.  
-  👉 [Live Demo](https://famiglia-scuola-connessa.vercel.app/)
-- **[Nocturna](https://github.com/Pnda90/Nocturna)** — Esperienza narrativa immersiva e tavola Ouija digitale con risposte generate in tempo reale tramite AI. Realizzato con React, TypeScript, Tailwind CSS e Supabase.  
-  👉 [Live Demo](https://nocturna-iota.vercel.app/)
+Prototipo di interfaccia per la comunicazione tra famiglie e scuole, con percorsi dedicati a famiglie, docenti e amministrazione.
 
----
+**Focus:** dashboard per ruoli diversi e prototipazione dei flussi.  
+**Stack:** React, TypeScript. La demo usa dati simulati salvati in localStorage: autenticazione e backend sono simulati.  
+[Codice](https://github.com/Pnda90/famiglia-scuola-connessa) · [Demo](https://famiglia-scuola-connessa.vercel.app/)
 
-### 🎮 Games & Interactive
+## Strumenti per lavorare con gli agenti AI
 
-- **[YAKU](https://yaku-psi.vercel.app/)** *(Proprietario)* — Roguelike dice game strategico con interfaccia ad alto impatto visivo ("Cosmic Dark"), progressive dice mechanics e audio immersivo. Sviluppato con React, Vite e TypeScript (PWA).  
-  👉 [Live Demo](https://yaku-psi.vercel.app/)
-- **[Peto Quest](https://github.com/Pnda90/peto-quest)** — Web game interattivo ed educativo attraverso il sistema digerente realizzato con TypeScript e React.  
-  👉 [Live Demo](https://peto-quest.vercel.app/)
+- **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** — CLI per analizzare un repository locale e generare, verificare o aggiornare un file `AGENTS.md` tramite un provider LLM.
+- **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** — Raccolta di definizioni di agenti, checklist e indicazioni di workflow per lo sviluppo assistito da AI.
 
----
+## Localizzazioni e adattamenti in italiano
 
-### 🔧 Browser Extensions & Utility
+Rendo accessibili a un pubblico italiano strumenti nati nella comunità internazionale. Questi progetti sono traduzioni e adattamenti di lavori esistenti; i repository riportano i crediti alle fonti originali.
 
-- **[Behind The Overlay Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Estensione open source per macOS Safari (portata da Chrome/Firefox tramite Xcode) per chiudere popup e overlay fastidiosi con un clic.
+- **[TokenZip](https://github.com/Pnda90/TokenZip)** — Adattamento italiano dei concetti di *caveman*, di Julius Brussee, per rendere più concise le interazioni con gli agenti AI.
+- **[WikiSkills](https://github.com/Pnda90/WikiSkills)** — Traduzione e adattamento del lavoro di *virgiliojr94* per trasformare documenti in materiale strutturato consultabile dagli agenti durante il lavoro.
 
----
+## Altri progetti
 
-📫 **Contatti & Collaborazioni**  
-- 🌐 [Portfolio](https://gbernardo.framer.ai) · ✉️ [gianlucabernardo@hotmail.com](mailto:gianlucabernardo@hotmail.com) · 🐙 [GitHub](https://github.com/Pnda90)  
-- Disponibile per collaborazioni su prodotti AI-native, sistemi agentic e architetture web moderne.
+- **JANUS** — Progetto su linguaggi e grammatiche per workflow agentic; il repository non è attualmente accessibile pubblicamente.
+- **[Peto Quest · Deep Gut](https://github.com/Pnda90/Peto_quest_v1.0)** — Runner arcade con Phaser, TypeScript e Vite.
+- **[YAKU](https://yaku-psi.vercel.app/)** — Gioco strategico con dadi; codice proprietario.
+- **[Nocturna](https://github.com/Pnda90/Nocturna)** — Esperienza narrativa interattiva.
+- **[Behind The Overlay per Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Porting per Safari di un'estensione per rimuovere popup e overlay.
+
+## Tecnologie
+
+**Web:** TypeScript, React, Next.js, Vite, Tailwind CSS  
+**Backend e dati:** Python, Node.js, PostgreSQL, Supabase  
+**AI:** integrazione LLM, workflow agentic, strumenti di contesto per coding agent  
+**Design e pubblicazione:** Figma, Framer, Vercel, GitHub Actions
+
+## Collaborazioni
+
+Disponibile per collaborazioni su prototipi web, integrazioni AI e strumenti per developer.
+
+[Scrivimi](mailto:gianlucabernardo@hotmail.com) · [Visita il portfolio](https://gbernardo.framer.ai/)
