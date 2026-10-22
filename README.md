@@ -1,66 +1,104 @@
+<div align="center">
+
 # Ciao, sono Gianluca 👋
+### Dall’idea alla prima versione funzionante.
 
-**AI Product Builder · Applicazioni web, strumenti per developer e workflow con LLM**
+Costruisco **applicazioni web, strumenti AI ed esperienze interattive**.<br>
+Unisco sviluppo, product design e attenzione a chi userà il prodotto.
 
-Trasformo idee e processi in prototipi utilizzabili, combinando sviluppo web, product design e integrazione AI. Lavoro su applicazioni per utenti e aziende, con attenzione all'esperienza d'uso e ai flussi operativi.
+**AI Product Builder · Italia**
 
-[Portfolio](https://gbernardo.framer.ai/) · [Contattami](mailto:gianlucabernardo@hotmail.com)
+[🌐 Portfolio](https://gbernardo.framer.ai/) &nbsp; · &nbsp; [✉️ Parliamo del tuo progetto](mailto:gianlucabernardo@hotmail.com)
 
-## Progetti selezionati
+</div>
 
-### CRM Benessere
+---
 
-Prototipo gestionale per centri benessere: clienti, contratti, rinnovi e provvigioni, con accessi differenziati per ruolo. Integra Supabase, pagamenti Stripe in modalità test e un assistente AI lato server.
+## 🚀 Cosa costruisco
 
-**Focus:** flussi operativi, autorizzazioni sui dati e integrazioni backend.  
-**Stack:** React, TypeScript, Supabase, Stripe.  
-[Codice e documentazione](https://github.com/Pnda90/demo-crm-benessere)
+### 🥬 FreeGo — Il frigo diventa un’app
 
-### FreeGo
+<a href="https://freego26.vercel.app/"><img src="assets/freego.jpg" alt="FreeGo: schermata iniziale con inventario, scadenze e accesso alla scansione barcode" width="100%"></a>
 
-Applicazione per organizzare il frigorifero, tenere sotto controllo le scadenze e trovare idee per cucinare con gli ingredienti disponibili.
+Cosa c’è in frigo? Cosa sta per scadere? Cosa cucino stasera? **FreeGo** parte da queste tre domande e le riunisce in un’esperienza semplice, tra inventario, scadenze e idee per le ricette.
 
-**Focus:** un'esperienza semplice per un problema quotidiano.  
-**Stato:** beta · codice proprietario.  
-[Prova FreeGo](https://freego26.vercel.app/)
+`Next.js` `React` `TypeScript` &nbsp; · &nbsp; **Beta · codice proprietario**
 
-### Famiglia-Scuola Connessa
+**[Apri FreeGo →](https://freego26.vercel.app/)**
 
-Prototipo di interfaccia per la comunicazione tra famiglie e scuole, con percorsi dedicati a famiglie, docenti e amministrazione.
+### 🌿 CRM Benessere — Dal cliente al rinnovo
 
-**Focus:** dashboard per ruoli diversi e prototipazione dei flussi.  
-**Stack:** React, TypeScript. La demo usa dati simulati salvati in localStorage: autenticazione e backend sono simulati.  
-[Codice](https://github.com/Pnda90/famiglia-scuola-connessa) · [Demo](https://famiglia-scuola-connessa.vercel.app/)
+Un prototipo gestionale per seguire **clienti, contratti, rinnovi e provvigioni**, con accessi differenziati per ruolo. Il progetto integra Supabase, Stripe in modalità test e un assistente AI lato server.
 
-## Strumenti per lavorare con gli agenti AI
+Qui il lavoro si concentra sui **flussi operativi e sulle autorizzazioni dei dati**, oltre che sull’interfaccia.
 
-- **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** — CLI per analizzare un repository locale e generare, verificare o aggiornare un file `AGENTS.md` tramite un provider LLM.
-- **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** — Raccolta di definizioni di agenti, checklist e indicazioni di workflow per lo sviluppo assistito da AI.
+`React` `TypeScript` `Supabase` `Stripe` &nbsp; · &nbsp; **Prototipo**
 
-## Localizzazioni e adattamenti in italiano
+**[Esplora codice e architettura →](https://github.com/Pnda90/demo-crm-benessere)**
 
-Rendo accessibili a un pubblico italiano strumenti nati nella comunità internazionale. Questi progetti sono traduzioni e adattamenti di lavori esistenti; i repository riportano i crediti alle fonti originali.
+### 🏫 Famiglia-Scuola Connessa — Un’interfaccia, più punti di vista
 
-- **[TokenZip](https://github.com/Pnda90/TokenZip)** — Adattamento italiano dei concetti di *caveman*, di Julius Brussee, per rendere più concise le interazioni con gli agenti AI.
-- **[WikiSkills](https://github.com/Pnda90/WikiSkills)** — Traduzione e adattamento del lavoro di *virgiliojr94* per trasformare documenti in materiale strutturato consultabile dagli agenti durante il lavoro.
+<a href="https://famiglia-scuola-connessa.vercel.app/"><img src="assets/scuola.jpg" alt="Dashboard della demo Famiglia-Scuola: navigazione per sedi, studenti, presenze, attività e messaggi" width="100%"></a>
 
-## Altri progetti
+Percorsi dedicati a **famiglie, docenti e amministrazione**, per esplorare come organizzare la comunicazione e le attività scolastiche.
 
-- **JANUS** — Progetto su linguaggi e grammatiche per workflow agentic; il repository non è attualmente accessibile pubblicamente.
-- **[Peto Quest · Deep Gut](https://github.com/Pnda90/Peto_quest_v1.0)** — Runner arcade con Phaser, TypeScript e Vite.
+`React` `TypeScript` &nbsp; · &nbsp; **MVP dimostrativo**
+
+La demo usa dati locali in `localStorage` e autenticazione simulata; non è collegata a un backend.
+
+**[Prova la demo →](https://famiglia-scuola-connessa.vercel.app/)** &nbsp; · &nbsp; [Codice](https://github.com/Pnda90/famiglia-scuola-connessa)
+
+### 🎮 Peto Quest · Deep Gut — Il lato giocoso
+
+<a href="https://github.com/Pnda90/Peto_quest_v1.0"><img src="https://raw.githubusercontent.com/Pnda90/Peto_quest_v1.0/main/docs/images/gameplay.png" alt="Peto Quest Deep Gut: schermata di gioco del runner arcade" width="100%"></a>
+
+Un runner arcade tra ostacoli, missioni e potenziamenti. Un laboratorio per lavorare su **interazione, ritmo di gioco e identità visiva**.
+
+`Phaser 3` `TypeScript` `Vite` &nbsp; · &nbsp; **Giocabile in locale**
+
+**[Scopri il gioco e avvialo →](https://github.com/Pnda90/Peto_quest_v1.0)**
+
+---
+
+## 🧩 Strumenti per chi costruisce con l’AI
+
+| Progetto | A cosa serve |
+| :--- | :--- |
+| **[Agents.md Generator](https://github.com/Pnda90/Agents.md-Generator)** | Analizzare un repository e generare, verificare o aggiornare `AGENTS.md` tramite un provider LLM. |
+| **[AgentiPRO](https://github.com/Pnda90/AgentiPRO)** | Definizioni di agenti, checklist e workflow per lo sviluppo assistito da AI. |
+| **JANUS** | Esplorare linguaggi e grammatiche per workflow agentic. Repository non pubblico. |
+
+## 🇮🇹 Strumenti internazionali, accessibili in italiano
+
+Mi occupo anche di **traduzione e adattamento per la comunità italiana**, dando credito ai lavori di partenza.
+
+- **[TokenZip](https://github.com/Pnda90/TokenZip)** — Adattamento italiano dei concetti di *caveman*, di Julius Brussee, per interazioni più concise con gli agenti AI.
+- **[WikiSkills](https://github.com/Pnda90/WikiSkills)** — Traduzione e adattamento del lavoro di *virgiliojr94*, per organizzare documenti in materiale consultabile dagli agenti.
+
+<details>
+<summary><b>🔎 Altri esperimenti e progetti</b></summary>
+
 - **[YAKU](https://yaku-psi.vercel.app/)** — Gioco strategico con dadi; codice proprietario.
 - **[Nocturna](https://github.com/Pnda90/Nocturna)** — Esperienza narrativa interattiva.
-- **[Behind The Overlay per Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Porting per Safari di un'estensione per rimuovere popup e overlay.
+- **[Behind The Overlay per Safari](https://github.com/Pnda90/Behind-The-Overlay-Estensione-Safari)** — Porting per Safari di un’estensione per rimuovere popup e overlay.
 
-## Tecnologie
+</details>
 
-**Web:** TypeScript, React, Next.js, Vite, Tailwind CSS  
-**Backend e dati:** Python, Node.js, PostgreSQL, Supabase  
-**AI:** integrazione LLM, workflow agentic, strumenti di contesto per coding agent  
-**Design e pubblicazione:** Figma, Framer, Vercel, GitHub Actions
+## 🛠️ Nella mia cassetta degli attrezzi
 
-## Collaborazioni
+**Interfacce** &nbsp; `TypeScript` `React` `Next.js` `Vite` `Tailwind CSS`  
+**Backend e dati** &nbsp; `Python` `Node.js` `PostgreSQL` `Supabase`  
+**AI** &nbsp; Integrazione LLM · workflow agentic · strumenti di contesto  
+**Design e pubblicazione** &nbsp; `Figma` `Framer` `Vercel` `GitHub Actions`
 
-Disponibile per collaborazioni su prototipi web, integrazioni AI e strumenti per developer.
+---
 
-[Scrivimi](mailto:gianlucabernardo@hotmail.com) · [Visita il portfolio](https://gbernardo.framer.ai/)
+<div align="center">
+
+### Hai un’idea da mettere alla prova?
+
+Collaboro su **prototipi web, integrazioni AI e strumenti per developer**.
+
+**[Scrivimi →](mailto:gianlucabernardo@hotmail.com)** &nbsp; · &nbsp; [Visita il portfolio](https://gbernardo.framer.ai/)
+
+</div>
