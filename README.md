@@ -18,7 +18,7 @@ Unisco sviluppo, product design e attenzione a chi userà il prodotto.
 
 ### 🥬 FreeGo — Il frigo diventa un’app
 
-<a href="https://freego26.vercel.app/"><img src="assets/freego.jpg" alt="FreeGo: schermata iniziale con inventario, scadenze e accesso alla scansione barcode" width="100%"></a>
+<a href="https://freego26.vercel.app/"><img src="assets/freego-dashboard.png" alt="FreeGo: nuova dashboard verde bosco in tema scuro, riepilogo scadenze e scansione barcode" width="100%"></a>
 
 Cosa c’è in frigo? Cosa sta per scadere? Cosa cucino stasera? **FreeGo** parte da queste tre domande e le riunisce in un’esperienza semplice, tra inventario, scadenze e idee per le ricette.
 
