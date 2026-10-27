@@ -60,6 +60,11 @@ Un runner arcade tra ostacoli, missioni e potenziamenti. Un laboratorio per lavo
 
 ### 🧊 Jelly Panic — Piccola jelly, grande scalata
 
+<p align="center">
+  <img src="assets/jelly-panic-lime.png" width="170" alt="Lime Original, la jelly verde di Jelly Panic" />&nbsp;&nbsp;&nbsp;
+  <img src="assets/jelly-panic-honey-bear.png" width="170" alt="Honey Bear, l’orsetto ambrato di Jelly Panic" />
+</p>
+
 Un arcade a un pulsante: **mira, salta tra cubetti di ghiaccio e resta davanti alla soda che sale**. Quattro jelly con forme e abilità diverse, piattaforme che si crepano, ostacoli in movimento e una sfida settimanale.
 
 `Canvas` `JavaScript` `Capacitor` &nbsp; · &nbsp; **Beta privata · test su dispositivi in preparazione**
