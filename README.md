@@ -58,6 +58,12 @@ Un runner arcade tra ostacoli, missioni e potenziamenti. Un laboratorio per lavo
 
 **[Scopri il gioco e avvialo →](https://github.com/Pnda90/Peto_quest_v1.0)**
 
+### 🧊 Jelly Panic — Piccola jelly, grande scalata
+
+Un arcade a un pulsante: **mira, salta tra cubetti di ghiaccio e resta davanti alla soda che sale**. Quattro jelly con forme e abilità diverse, piattaforme che si crepano, ostacoli in movimento e una sfida settimanale.
+
+`Canvas` `JavaScript` `Capacitor` &nbsp; · &nbsp; **Beta privata · test su dispositivi in preparazione**
+
 ---
 
 ## 🧩 Strumenti per chi costruisce con l’AI
