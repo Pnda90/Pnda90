@@ -110,6 +110,6 @@ Mi occupo anche di **traduzione e adattamento per la comunità italiana**, dando
 
 Collaboro su **prototipi web, integrazioni AI e strumenti per developer**.
 
-**[Scrivimi →](mailto:gianlucabernardo@hotmail.com)** &nbsp; · &nbsp; [Visita il portfolio](https://gbernardo.framer.ai/)
+**[Scrivimi →](mailto:gianlucabernardo@hotmail.com)** &nbsp; · &nbsp; [Visita il portfolio](https://gianlucabernardo.com/)
 
 </div>
