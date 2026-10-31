@@ -8,7 +8,7 @@ Unisco sviluppo, product design e attenzione a chi userà il prodotto.
 
 **AI Product Builder · Italia**
 
-[🌐 Portfolio](https://gbernardo.framer.ai/) &nbsp; · &nbsp; [✉️ Parliamo del tuo progetto](mailto:gianlucabernardo@hotmail.com)
+[🌐 Portfolio](https://gianlucabernardo.com/) &nbsp; · &nbsp; [✉️ Parliamo del tuo progetto](mailto:gianlucabernardo@hotmail.com)
 
 </div>
 
